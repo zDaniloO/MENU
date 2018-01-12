@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>[B][COLOR yellow]E NECESSARIO INSTALAR O PLUGIN VIDEO SPECTO[/B][/COLOR]</title>
+<link>http://fui.me</link>
+<thumbnail>http://s10.postimg.org/5x08hs6hl/icon.png</thumbnail>
+<fanart>http://i.imgur.com/mn5rs9L.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR yellow]URL da fonte: http://kodi.filmkodi.com[/B][/COLOR]</title>
+<link>http://fui.me</link>
+<thumbnail>http://s10.postimg.org/5x08hs6hl/icon.png</thumbnail>
+<fanart>http://i.imgur.com/mn5rs9L.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR yellow]******************************[/B][/COLOR]</title>
+<link>http://fui.me</link>
+<thumbnail>http://s10.postimg.org/5x08hs6hl/icon.png</thumbnail>
+<fanart>http://i.imgur.com/mn5rs9L.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]FILMES[/B][/COLOR]</title>
+<link>http://fui.me</link>
+<jsonrpc>plugin://plugin.video.specto/?action=movieNavigator</jsonrpc>
+<thumbnail>http://s10.postimg.org/5x08hs6hl/icon.png</thumbnail>
+<fanart>http://i.imgur.com/mn5rs9L.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]TV SHOWS[/B][/COLOR]</title>
+<link>http://fui.me</link>
+<jsonrpc>plugin://plugin.video.specto/?action=tvNavigator</jsonrpc>
+<thumbnail>http://s10.postimg.org/5x08hs6hl/icon.png</thumbnail>
+<fanart>http://i.imgur.com/mn5rs9L.jpg</fanart>
+</item>
